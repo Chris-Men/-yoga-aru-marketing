@@ -611,3 +611,8 @@ header::before {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+
+.parrafo{
+  text-align: justify;
+}
